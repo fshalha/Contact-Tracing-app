@@ -26,10 +26,9 @@ A mobile application to trace contacts of communicable and non-communicable dise
 ### Software Tesing
 #### Mobile app
 
-- Check the Validity of log in details(email,password)
+
 
 #### Database and Server
-
 
 
 ---
