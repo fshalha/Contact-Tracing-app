@@ -7,10 +7,7 @@
 A mobile application to trace contacts of communicable and non-communicable diseases.
 
 ---
-# Our Setup
 
-![model](docs/images/POOL.13.jpg)
----
 
 ## Problems
 
